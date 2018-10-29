@@ -19,6 +19,8 @@ than their imperative counterparts
 1. Stack
 1. ghc-mod hlint hdevtools hfmt
 
+## Numbers
+
 1. Integers and floats can be implicitly cast to one another.
 
 ## Functions
